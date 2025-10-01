@@ -19,14 +19,16 @@ Hi, I'm Yasir 👋
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/saifuddin-yasir-930918204) 
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saifuddinyasir20@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/saifuddinyasir_95/)  
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/saifuddin-yasir-930918204) 
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saifuddinyasir20@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/saifuddinyasir_95/)  
+[![Website](https://img.shields.io/badge/🌐%20My%20Website-Visit-blue?style=for-the-badge&logo=google-chrome)](https://saifuddinyasir.wordpress.com/)
 
 ---
 
-## 🛠️ Langes & Tools  
+## 🛠️ Programming Languages & Tools  
+
 ![Python](https://skillicons.dev/icons?i=python) 
 ![Matlab](https://skillicons.dev/icons?i=matlab) 
 ![Html](https://skillicons.dev/icons?i=html) 
@@ -38,6 +40,7 @@ Hi, I'm Yasir 👋
 ## 🚀 Projects  
 
  - 😐😐
+
   
 
 ## 📊 GitHub Stats  
@@ -55,7 +58,7 @@ Hi, I'm Yasir 👋
 ---
 
 ## ⌨️ Typing Animation  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F7B42C&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Always+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F7B42C&lines=Machine+Learning+Enthusiast;Building+on+Mark+95;Always+on+Moving)](https://git.io/typing-svg)
 
 
 ✨ *"Every innovation begins with a spark — and I’m here to keep creating sparks until they light up the future."*
