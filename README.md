@@ -60,7 +60,7 @@ Hi, I'm Yasir 👋
 
 ---
 
-## 👁️ Profile Views  
+## Profile Views  
 ![Profile Views](https://komarev.com/ghpvc/?username=Saifuddin-Yasir&color=brightgreen&style=for-the-badge)  
 
 ---
