@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/xyz/futuristic-top.gif" alt="Futuristic Animation" width="800"/>
+  <img src="https://www.vexels.com/vectors/preview/125313/futuristic-mesh-background" alt="Futuristic Animation" width="800"/>
 </p>
 
 Hi, I'm Yasir 👋  
