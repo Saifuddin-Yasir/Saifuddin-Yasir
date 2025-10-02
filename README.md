@@ -29,7 +29,7 @@ Hi, I'm Yasir 👋
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/saifuddinyasir_95/)  
 [![Website](https://img.shields.io/badge/🌐%20My%20Website-Visit-blue?style=for-the-badge&logo=google-chrome)](https://saifuddinyasir.wordpress.com/)
 
----
+
 
 ## 🛠️ Programming Languages & Tools  
 
@@ -41,9 +41,11 @@ Hi, I'm Yasir 👋
   <img src="https://skillicons.dev/icons?i=c" alt="C" width="30" height="30"/>
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="30" height="30"/>
   <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/>
 </div>
 
----
 
 ## 🚀 Projects  
 
@@ -57,13 +59,16 @@ Hi, I'm Yasir 👋
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saifuddin-Yasir&theme=tokyonight)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saifuddin-Yasir&layout=compact&theme=radical)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Saifuddin-Yasir&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
----
+
+
+
 
 ## Profile Views  
 ![Profile Views](https://komarev.com/ghpvc/?username=Saifuddin-Yasir&color=brightgreen&style=for-the-badge)  
 
----
+
 
 ## ⌨️ Typing Animation  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F7B42C&lines=Machine+Learning+and;AI+Enthusiast;Deep+learning+Enthusiast;Connect+with+more+to;being+our+journey+easy;Building+my+own;version+Mark+95)](https://git.io/typing-svg)
