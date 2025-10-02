@@ -29,11 +29,15 @@ Hi, I'm Yasir 👋
 
 ## 🛠️ Programming Languages & Tools  
 
-![Python](https://skillicons.dev/icons?i=python) 
-![Matlab](https://skillicons.dev/icons?i=matlab) 
-![Html](https://skillicons.dev/icons?i=html) 
-![Css](https://skillicons.dev/icons?i=css) 
-![C](https://skillicons.dev/icons?i=c) 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="30" height="30"/>
+  <img src="https://skillicons.dev/icons?i=matlab" alt="Matlab" width="30" height="30"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="30" height="30"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="30" height="30"/>
+  <img src="https://skillicons.dev/icons?i=c" alt="C" width="30" height="30"/>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="30" height="30"/>
+  <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" width="30" height="30"/>
+</div>
 
 ---
 
@@ -58,7 +62,7 @@ Hi, I'm Yasir 👋
 ---
 
 ## ⌨️ Typing Animation  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F7B42C&lines=Machine+Learning+Enthusiast;Building+on+Mark+95;Always+on+Moving)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F7B42C&lines=Machine+Learning+and;AI+Enthusiast;Deep+learning+Enthusiast;Connect+with+more+to;being+our+journey+easy;Building+my+own;version+Mark+95)](https://git.io/typing-svg)
 
 
 ✨ *"Every innovation begins with a spark — and I’m here to keep creating sparks until they light up the future."*
