@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.ibb.co/xyz/futuristic-top.gif" alt="Futuristic Animation" width="800"/>
+</p>
+
 Hi, I'm Yasir 👋  
 
 🎓 **Bachelor’s in Electrical & Electronics Engineering**  (On-going) 
@@ -69,3 +73,6 @@ Hi, I'm Yasir 👋
 
 
 
+<p align="center">
+  <img src="https://i.ibb.co/xyz/futuristic-top.gif" alt="Futuristic Animation" width="800"/>
+</p>
